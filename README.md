@@ -1,11 +1,13 @@
+[![MasterHead](https://i.ibb.co/mCrfZyz/github-header-image.png)
+
 <h1 align="center">Hi 👋, I'm Paul Kamau</h1>
 <h3 align="center">A passionate frontend developer from Kenya</h3>
-<img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/OWgDiFQbtizpdLewE5/200.webp?cid=790b76113vne34jveqts4df6mz6w0h9wux2vw8siow2v3ont&ep=v1_gifs_search&rid=200.webp&ct=g"
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🔭 I’m currently working on [Deriv Bot site with integrated strategies](https://bmk-trade-tool.onrender.com/)
 
 - 🌱 I’m currently learning **NextJS**
-
+ 
 - 💬 Ask me about **React**
 
 - 📫 How to reach me **njigupaul22@gmail.com**
