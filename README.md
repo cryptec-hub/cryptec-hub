@@ -1,7 +1,7 @@
 [![MasterHead](https://i.ibb.co/mCrfZyz/github-header-image.png)
 
-<h1 align="center">Hi 👋, Welcome to my space</h1>
-<h3 align="center">A fullstack web developer💻||MERN</h3>
+<h1 align="center">Welcome to my space</h1>
+<h3 align="center">A Fullstack Web Developer💻||MERN</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🔭 I’m currently working on [Deriv Bot site with integrated strategies](https://bmk-trade-tool.onrender.com/)
